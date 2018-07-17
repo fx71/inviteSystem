@@ -1,0 +1,5 @@
+GET     /invitation                 controllers.InviteController.listInvitations
+
+POST    /invitation                 controllers.InviteController.createInvitation
+
+
